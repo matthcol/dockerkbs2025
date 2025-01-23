@@ -1,5 +1,11 @@
 # Docker
 
+## Documentation
+
+### variables d'environnement et arguments
+Documentation Dockerfile: https://docs.docker.com/reference/dockerfile/
+Tutoriel: https://vsupalov.com/docker-arg-env-variable-guide/
+
 ## Commandes principales
 - ps: lister les conteneurs qui tournent ou inertes
 - pull: télécharger une image
