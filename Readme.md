@@ -63,6 +63,13 @@ https://minikube.sigs.k8s.io/docs/commands/
 - dashboard: web GUI
 - kubectl
 
+### Commandes kubectl
+https://kubernetes.io/docs/reference/kubectl/
+
+- get pod(s) | deployment(s) | service | rs
+- label: gestion des labels
+https://kubernetes.io/docs/reference/kubectl/generated/kubectl_label/
+
 ## Movie API
 https://github.com/matthcol/dockerkbs2025/releases
 
