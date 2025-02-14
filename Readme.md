@@ -41,3 +41,29 @@ docker rm hello
 
 ### Remove all containers
 docker rm -v -f 
+
+
+## K8s
+
+install minikube:
+https://minikube.sigs.k8s.io/docs/start
+
+```
+minikube start
+```
+
+### Commandes k8s
+https://minikube.sigs.k8s.io/docs/commands/
+- node, ip
+- start, stop, status, pause
+- service, tunnel
+- logs, ssh
+- mount, cp
+- image
+- kubectl
+
+## Movie API
+https://github.com/matthcol/dockerkbs2025/releases
+
+3 versions: 1.0, 1.1, 2.0
+
