@@ -52,7 +52,7 @@ https://minikube.sigs.k8s.io/docs/start
 minikube start
 ```
 
-### Commandes k8s
+### Commandes minikube
 https://minikube.sigs.k8s.io/docs/commands/
 - node, ip
 - start, stop, status, pause
@@ -60,6 +60,7 @@ https://minikube.sigs.k8s.io/docs/commands/
 - logs, ssh
 - mount, cp
 - image
+- dashboard: web GUI
 - kubectl
 
 ## Movie API
