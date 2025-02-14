@@ -70,6 +70,9 @@ https://kubernetes.io/docs/reference/kubectl/
 - label: gestion des labels
 https://kubernetes.io/docs/reference/kubectl/generated/kubectl_label/
 
+### Tutorial Load Balancer
+https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/
+
 ## Movie API
 https://github.com/matthcol/dockerkbs2025/releases
 
